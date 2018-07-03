@@ -587,6 +587,9 @@ https://www.docz.site/
 React Internationalization – How To*
 https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 
+SVG to React*
+https://savage.now.sh/
+
 ## GraphQL
 
 How do I GraphQL?*
