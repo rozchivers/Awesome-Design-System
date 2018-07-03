@@ -215,6 +215,9 @@ https://www.martinfowler.com/articles/richardsonMaturityModel.html
 
 ## Accessibility
 
+Pa11y Dashboard is a web interface to the [Pa11y][pa11y] accessibility reporter; allowing you to focus on *fixing* issues rather than hunting them down*
+https://github.com/pa11y/dashboard
+
 Accessibility for developers*
 https://www.invisionapp.com/blog/accessibility-for-developers/
 
@@ -800,21 +803,10 @@ https://medium.com/@jmatix/using-chrome-as-a-local-web-server-af04baffd581
 Cool Chrome DevTools tips and tricks you wish you knew already
 https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2
 
-Pa11y Dashboard*
-===============
-Pa11y Dashboard is a web interface to the [Pa11y][pa11y] accessibility reporter; allowing you to focus on *fixing* issues rather than hunting them down.
-https://github.com/pa11y/dashboard
-
-
 CSSStats (CSS Complexity Report)*
-================================
-Potentially interesting stats on stylesheets
 https://github.com/cssstats/cssstats
 
-
-Plato (Complexity Report)*
-=========================
-JavaScript source code visualization, static analysis, and complexity tool 
+Plato (Code Complexity Report)*
 https://github.com/es-analysis/plato
 
 
