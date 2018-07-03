@@ -1,7 +1,7 @@
 # Awesome-Design-System
 A curated list of Design System articles, resources and tools
 
-##Design Systems
+## Design Systems
 
 Adele: The repository of publicly available design systems and pattern libraries
 https://adele.uxpin.com/
@@ -145,7 +145,7 @@ Shopify Polaris Design Tokens*
 https://github.com/Shopify/polaris-tokens
 
 
-##Living Style Guides
+## Living Style Guides
 
 Catalog
 www.catalog.style
@@ -175,7 +175,7 @@ REACT COMPONENTS LIVING STYLE GUIDES OVERVIEW
 https://www.nearform.com/blog/react-living-style-guides/
 
 
-##Architecture
+## Architecture
 
 Pattern: Backends For Frontends*
 https://samnewman.io/patterns/architectural/bff/
@@ -213,7 +213,7 @@ https://github.com/CanopyTax/single-spa
 REST Maturity Model*
 https://www.martinfowler.com/articles/richardsonMaturityModel.html
 
-##Accessibility
+## Accessibility
 
 Accessibility for developers*
 https://www.invisionapp.com/blog/accessibility-for-developers/
@@ -225,7 +225,7 @@ HTML_CodeSniffer comes with standards that enforce the three conformance levels 
 http://squizlabs.github.io/HTML_CodeSniffer/
 
 
-##Development
+## Development
 
 Understanding CSS Stats: How to Make the Most of the Numbers*
 https://webdesign.tutsplus.com/tutorials/understanding-css-stats-how-to-make-the-most-of-the-numbers--cms-22756
@@ -333,7 +333,7 @@ Convert ASCII diagrams to beautiful SVGs
 https://github.com/dhobsd/asciitosvg#asciitosvg
 
 
-##Terminal
+## Terminal
 
 cmder: Portal console emulator for Windows*
 http://cmder.net
@@ -363,7 +363,7 @@ iTerm: terminal emulator for MacOS that does amazing things
 https://www.iterm2.com/
 
 
-##Event Bus
+## Event Bus
 
 Eev: A tiny, fast, zero-dependency event emitter*
 https://github.com/chrisdavies/eev
@@ -389,7 +389,7 @@ The fastest way to build beautiful Electron apps using simple HTML and CSS
 http://photonkit.com/
 
 
-##Design 
+## Design 
 
 How To Use Color In UI Design Wisely to Create A Perfect UI Interface?*
 https://blog.prototypr.io/how-to-use-color-in-ui-design-wisely-to-create-a-perfect-ui-interface-6e524bd023bc
@@ -401,7 +401,7 @@ Pattern Lab helps you and your team build thoughtful, pattern-driven user interf
 http://patternlab.io/
 
 
-##UX
+## UX
 
 7 Rules of Using Radio Buttons vs Drop-Down Menus*
 https://blog.prototypr.io/7-rules-of-using-radio-buttons-vs-drop-down-menus-fddf50d312d1
@@ -442,7 +442,7 @@ http://www.uxbydesign.org/2009/07/06/legos-user-experience-wheel/
 Buttons shouldn't have a hand cursor*
 https://adamsilver.io/articles/buttons-shouldnt-have-a-hand-cursor/
 
-##Mono Repo
+## Mono Repo
 
 Setting up a JavaScript Monorepo*
 https://staltz.com/setting-up-a-javascript-monorepo.html
@@ -450,19 +450,19 @@ https://staltz.com/setting-up-a-javascript-monorepo.html
 Lerna: A tool for managing JavaScript projects with multiple packages*
 https://github.com/lerna/lerna
 
-#Animation
+## Animation
 
 Green Sock: Ultra high-performance, professional-grade animation for the modern web
 https://greensock.com/
 
 
-##Vanilla JS
+## Vanilla JS
 
 Tablesaw Responsive Tables (With Sorting and i18n)
 https://github.com/filamentgroup/tablesaw
 
 
-##React
+## React
 
 Awesome React Components*
 https://github.com/brillout/awesome-react-components
@@ -584,7 +584,7 @@ https://www.docz.site/
 React Internationalization – How To*
 https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 
-##GraphQL
+## GraphQL
 
 How do I GraphQL?*
 https://dev-blog.apollodata.com/how-do-i-graphql-2fcabfc94a01
@@ -629,7 +629,7 @@ Awesome GraphQL*
 https://github.com/chentsulin/awesome-graphql
 
 
-##Vue
+## Vue
 
 Vue.js 2.3 Complete API Cheat Sheet
 https://vuejs-tips.github.io/cheatsheet/
@@ -650,7 +650,7 @@ Creating Custom Inputs With Vue.js*
 https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/
 
 
-##Ember
+## Ember
 
 Ember Feature Flags*
 https://github.com/kategengler/ember-feature-flags
@@ -752,12 +752,12 @@ Visualise Ember-cli build statistics: Broccoli Viz Sunburst*
 https://github.com/benblank/broccoli-viz-sunburst
 
 
-##Debugging
+## Debugging
 
 10 Tips for Javascript Debugging Like a PRO with Console*
 https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6
 
-##Performance
+## Performance
 
 Subfont: A command line tool to statically analyse your page in order to generate the most optimal web font subsets, then inject them into your page.*
 https://www.npmjs.com/package/subfont
@@ -771,7 +771,7 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 What is the maximum size of a JavaScript object in browser memory?
 https://www.quora.com/What-is-the-maximum-size-of-a-JavaScript-object-in-browser-memory
 
-##Tools
+## Tools
 
 A powerful UI toolkit for managing JavaScript apps
 https://github.com/kitze/JSUI
@@ -818,13 +818,13 @@ JavaScript source code visualization, static analysis, and complexity tool
 https://github.com/es-analysis/plato
 
 
-##Git
+## Git
 
 PULL_REQUEST_TEMPLATE
 https://github.com/coryhouse/react-slingshot/blob/master/PULL_REQUEST_TEMPLATE.md
 
 
-##CSS
+## CSS
 
 CSS at Scale: LinkedIn's New Open Source Projects Take on Stylesheet Performance*
 https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh
@@ -854,13 +854,13 @@ Spectre: A simple UI for browsing and inspecting CSS diffs*
 https://github.com/wearefriday/spectre
 
 
-##JWT
+## JWT
 
 JWT.IO allows you to decode, verify and generate JWT.
 https://jwt.io/
 
 
-##CI + CD
+## CI + CD
 
 CI and CD with Gitlab runner on Digital Ocean
 https://www.digitalocean.com/community/tutorials/how-to-autoscale-gitlab-continuous-deployment-with-gitlab-runner-on-digitalocean
@@ -871,7 +871,7 @@ https://codefresh.io/kubernetes-tutorial/cd_helm_kubernetes_microservices_1/
 Danger runs after your CI, automating your team's conventions surrounding code review*
 https://github.com/danger/danger
 
-##Misc
+## Misc
 
 HTML Modules
 https://glitch.com/edit/#!/html-modules
@@ -898,13 +898,13 @@ Visualize your cloud architecture like a pro
 https://cloudcraft.co/
 
 
-##Performance and Memory (window.performance.memory)
+## Performance and Memory (window.performance.memory)
 
 Effectively Managing Memory at Gmail scale
 https://www.html5rocks.com/en/tutorials/memory/effectivemanagement/
 
 
-##Angular
+## Angular
 
 AngularPlayground
 http://www.angularplayground.it/
@@ -912,7 +912,7 @@ http://www.angularplayground.it/
 ReactShowroom
 https://github.com/OpusCapita/react-showroom-client
 
-##Web Components
+## Web Components
 
 SkateJS is a web component library designed to give you an augmentation of the web component specs
 https://github.com/skatejs/skatejs
@@ -920,7 +920,7 @@ https://github.com/skatejs/skatejs
 Dead Simple Web Components
 http://www.grml.in
 
-##Build
+## Build
 
 Webdash helps you visualize, monitor & manage your web project using community-driven plugins*
 https://webdash.xyz/
@@ -929,9 +929,7 @@ Find the cost of adding a npm package to your bundle*
 https://bundlephobia.com/
 
 
-
-
-##Testing
+## Testing
 
 Multi-framework javascript browser testing*
 https://github.com/defunctzombie/zuul
@@ -946,7 +944,7 @@ Software Testing Anti-patterns*
 http://blog.codepipes.com/testing/software-testing-antipatterns.html
 
 
-#Security
+## Security
 zxcvbn: Low-Budget Password Strength Estimation* 
 https://github.com/dropbox/zxcvbn
 
@@ -972,7 +970,7 @@ AcceptJS is an acceptance testing framework built on top of Selenium WebDriver A
 https://github.com/hamid6/acceptjs
 
 
-##Webpack
+## Webpack
 
 Webpack Dashboard*
 https://github.com/FormidableLabs/webpack-dashboard
@@ -980,23 +978,23 @@ https://github.com/FormidableLabs/webpack-dashboard
 Webpack bundle analyzer*
 https://github.com/webpack-contrib/webpack-bundle-analyzer
 
-###Progressive Web Applications (PWA)
+## Progressive Web Applications (PWA)
 
 PWA Builder (analyses your site and makes recommendations)
 https://www.pwabuilder.com/
 
-##Tech Debt
+## Tech Debt
 
 Taxonomy of Tech Debt
 https://engineering.riotgames.com/news/taxonomy-tech-debt
 
-##Errors
+## Errors
 
 Open-source error tracking that helps developers monitor and fix crashes in real time.
 https://sentry.io/welcome/
 
 
-##Other
+## Other
 
 Front End Masters
 https://frontendmasters.com/books/front-end-handbook/2018/
@@ -1017,7 +1015,7 @@ Screely instantly turns your screenshot or design into a beautiful image you can
 https://www.screely.com/
 
 
-##Agile
+## Agile
 
 Acephalic Agile—worse than Waterfall?
 https://tech.labs.oliverwyman.com/blog/2018/05/16/acephalic-agile/
@@ -1026,19 +1024,19 @@ DSDM
 https://en.wikipedia.org/wiki/Dynamic_systems_development_method
 
 
-##Fun
+## Fun
 
 JSCity is an implementation of the Code City metaphor for visualizing source code. JSCity represents a JavaScript program as a city*
 https://github.com/ASERG-UFMG/JSCity/wiki/JSCITY
 
 
-##Learning
+## Learning
 
 Open source workshops that teach web software skills*
 https://nodeschool.io/
 
 
-##Noteworthy
+## Noteworthy
 
 Move an async function into its own thread*
 https://github.com/developit/greenlet
@@ -1082,7 +1080,7 @@ https://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/
 Ponyfill: Like polyfill but with pony pureness*
 https://github.com/sindresorhus/ponyfill
 
-##Esoteric
+## Esoteric
 
 Gifsockets (because ... you can)
 https://github.com/videlalvaro/gifsockets
